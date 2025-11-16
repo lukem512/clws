@@ -1,2 +1,2 @@
-# clws
-Coeden Land and Woodland Services
+# CLWS
+Coeden Land and Woodland Services. A website for the business.
